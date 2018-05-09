@@ -1,0 +1,10 @@
+<gun_01.model>
+  <tank>	true	</tank>
+  <nodefullVisual>vehicles/Avalon's WoT Workshop/GB94_Centurion_Mk5-1/normal/lod0/Gun_01</nodefullVisual>
+  <visibilityBox>
+    <min>-0.848681 -0.331696 -0.19243</min>
+    <max>0.66514 0.72852 4.27573</max>
+  </visibilityBox>
+  <materialNames>
+  </materialNames>
+</gun_01.model>

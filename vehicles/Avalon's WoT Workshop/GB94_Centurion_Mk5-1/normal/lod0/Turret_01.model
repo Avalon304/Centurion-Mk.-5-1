@@ -1,0 +1,10 @@
+<turret_01.model>
+  <tank>	true	</tank>
+  <nodefullVisual>vehicles/Avalon's WoT Workshop/GB94_Centurion_Mk5-1/normal/lod0/Turret_01</nodefullVisual>
+  <visibilityBox>
+    <min>-1.58915 -0.05 -2.31665</min>
+    <max>1.64238 3.05048 1.23148</max>
+  </visibilityBox>
+  <materialNames>
+  </materialNames>
+</turret_01.model>
