@@ -78,8 +78,8 @@
 					</property>
 					<property>
 						colorIdMap
-						<Texture>vehicles/Avalon's WoT Workshop/GB94_Centurion_Mk5-1/Centurion_Mk5-1_RAAC_turret_01_ID.dds</Texture></property>
-					<property>
+						<Texture>vehicles/Avalon's WoT Workshop/GB94_Centurion_Mk5-1/Centurion_Mk5-1_RAAC_turret_01_ID.dds</Texture>
+					</property>
 					<property>
 						g_detailUVTiling
 						<Vector4>8.41644 4.20822 0.000000 0.000000</Vector4>
@@ -268,8 +268,8 @@
 					</property>
 					<property>
 						colorIdMap
-						<Texture>vehicles/Avalon's WoT Workshop/GB94_Centurion_Mk5-1/Centurion_Action_X_turret_01_ID.dds</Texture></property>
-					<property>
+						<Texture>vehicles/Avalon's WoT Workshop/GB94_Centurion_Mk5-1/Centurion_Action_X_turret_01_ID.dds</Texture>
+					</property>
 					<property>
 						g_detailUVTiling
 						<Vector4>8.41644 4.20822 0.000000 0.000000</Vector4>
