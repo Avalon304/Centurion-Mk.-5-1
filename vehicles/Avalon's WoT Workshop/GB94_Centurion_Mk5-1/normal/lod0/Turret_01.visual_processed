@@ -139,6 +139,10 @@
 						<Texture>vehicles/Avalon's WoT Workshop/GB94_Centurion_Mk5-1/M41_Bulldog_Turret_02_AO.dds</Texture>
 					</property>
 					<property>
+						colorIdMap
+						<Texture>vehicles/Avalon's WoT Workshop/GB94_Centurion_Mk5-1/Strv_S1_hull_02_ID.dds</Texture>
+					</property>
+					<property>
 						g_detailUVTiling
 						<Vector4>3.50685 3.50685 0.000000 0.000000</Vector4>
 					</property>
@@ -199,6 +203,10 @@
 					<property>
 						excludeMaskAndAOMap
 						<Texture>vehicles/Avalon's WoT Workshop/GB94_Centurion_Mk5-1/M18_Hellcat_turret_02_AO.dds</Texture>
+					</property>
+					<property>
+						colorIdMap
+						<Texture>vehicles/Avalon's WoT Workshop/GB94_Centurion_Mk5-1/Strv_S1_hull_02_ID.dds</Texture>
 					</property>
 					<property>
 						g_detailUVTiling
@@ -341,6 +349,10 @@
 						<Texture>vehicles/Avalon's WoT Workshop/GB94_Centurion_Mk5-1/M48A1_turret_01_AO.dds</Texture>
 					</property>
 					<property>
+						colorIdMap
+						<Texture>vehicles/Avalon's WoT Workshop/GB94_Centurion_Mk5-1/Strv_S1_hull_02_ID.dds</Texture>
+					</property>
+					<property>
 						g_detailUVTiling
 						<Vector4>7.0137 3.50685 0.000000 0.000000</Vector4>
 					</property>
@@ -397,6 +409,10 @@
 					<property>
 						excludeMaskAndAOMap
 						<Texture>vehicles/Avalon's WoT Workshop/GB94_Centurion_Mk5-1/Cromwell_Berlin_hull_01_AO.dds</Texture>
+					</property>
+					<property>
+						colorIdMap
+						<Texture>vehicles/Avalon's WoT Workshop/GB94_Centurion_Mk5-1/Strv_S1_hull_02_ID.dds</Texture>
 					</property>
 					<property>
 						g_detailUVTiling

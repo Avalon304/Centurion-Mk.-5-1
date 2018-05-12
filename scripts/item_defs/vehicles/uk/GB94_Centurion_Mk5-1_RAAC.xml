@@ -81,8 +81,8 @@
         <hideIfDamaged>	false	</hideIfDamaged>
       </clan>
       <inscription>
-        <rayStart>-1.69967 -0.0953742 1.7969</rayStart>
-        <rayEnd>-1.68902 -0.0954762 1.7969</rayEnd>
+        <rayStart>-1.69967 -0.0953742 1.6369</rayStart>
+        <rayEnd>-1.68902 -0.0954762 1.6369</rayEnd>
         <rayUp>89.623 0 0.000000</rayUp>
         <size>0.88</size>
         <hideIfDamaged>	true	</hideIfDamaged>
